@@ -1,0 +1,1 @@
+# Creating-Date-Partitioned-Tables-in-BigQuery
